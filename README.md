@@ -3,7 +3,7 @@
 
 ![NPM Version][npm-image]
 
-O sistema foi criado como projeto acadêmico, para conclusão da matéria de C do curso Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de Itu, turma do 2º Semestre de 2017.
+O sistema foi criado como projeto acadêmico, para conclusão da matéria de Linguagem de Programação em Linguagem C do curso Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de Itu, turma do 2º Semestre de 2017.
 O objetivo do sistema é controlar o acesso/entrada de moradores e convidados a um condominio.
 
 ![](inicio.png)
